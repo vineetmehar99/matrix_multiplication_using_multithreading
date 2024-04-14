@@ -7,6 +7,12 @@
 3. Matplotlib
 4. Pandas
 5. psutil
+   
+#Variables
+- **Time Taken (Sec):** Indicates the time taken for matrix multiplication in seconds. Lower values indicate better performance.
+- **Number of Threads:** The number of threads used for matrix multiplication. Higher values may improve performance up to a certain point, depending on the system's capabilities.
+- **CPU Usage:** Percentage of CPU being used.
+- 
 ## Result DataFrame
 
 | Threads | Time Taken (Sec) | CPU Usage (%) |
