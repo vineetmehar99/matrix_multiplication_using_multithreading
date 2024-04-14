@@ -7,5 +7,15 @@
 3. Matplotlib/n
 4. Pandas
 5. psutil
-# Result Dataframe
+## Result DataFrame
 
+| Threads | Time Taken (Sec) | CPU Usage (%) |
+|---------|------------------|---------------|
+| 1       | 500              | 20            |
+| 2       | 275              | 35            |
+| 3       | 200              | 45            |
+| 4       | 150              | 55            |
+| 5       | 250              | 60            |
+| 6       | 300              | 65            |
+| 7       | 350              | 70            |
+| 8       | 400              | 75            |
